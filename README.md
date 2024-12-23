@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Sahra from Stockholm. Currently, I'm studying to become a web developer, and I'm enjoying my time at Medieinstitutet.
+I'm Sahra from Stockholm. I recently graduated as a web developer and am currently looking for new opportunities in the tech industry. I have previous experience working at Loomis AB, where I developed strong problem-solving and teamwork skills. Now, I'm focusing on expanding my web development knowledge and seeking a role where I can contribute to exciting projects while continuing to grow professionally.
 
-I am currently interning at one of the top companies, Qasa, and I enjoy working in a team and learning new things from people who have been working as developers for several years.
+I'm passionate about front-end development and always eager to learn new technologies. Feel free to reach out if you have any opportunities or would like to connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
